@@ -18,6 +18,24 @@ Runing the Application: After the build is successful, you can run the applicati
 Exploring the Application: Once the application is running, you can explore its features, such as adding, editing, and deleting recipes, searching for recipes, and viewing recipe details.
 
 Running the application after adding some changes to the file you should be able to explore the application . You are able to add, find a recipe and viewing your recipe details.
+**How To Run The Recipe App**
+
+1. Download the C# code or copy it to your local system.
+
+2. **Open Terminal or Command Prompt:** - Launch the terminal or command prompt program.
+
+3. **Navigate to the Directory:** - Use a command to access the directory where you saved the downloaded C# file.
+
+4. Compile the code:
+   - Open an IDE (Integrated Development Environment) that supports C# programming, such as Visual Studio.
+   - Copy and paste the code into a new ".cs" file, naming it "RecipeApp.cs".
+   - Save the file in a spot on your computer.
+      
+5. **Run the Program:** - After building the software, browse to the directory containing the built executable file.
+   - Execute the built executable file. 
+
+
+
 
 Dependencies
 
