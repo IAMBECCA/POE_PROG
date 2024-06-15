@@ -5,7 +5,7 @@ This recipe application software is written in C#.
 
 Compile and Run 
 
-Cloning the Repository: Cloning the repository to my local machine using Git or download the zip file and extract it.
+Cloning the Repository: Cloning the repository to my local machine using Git or download the zip file and extract it. 
 
 https://github.com/IAMBECCA/POE_PROG
 
