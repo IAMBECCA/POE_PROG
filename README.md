@@ -18,6 +18,8 @@ Runing the Application: After the build is successful, you can run the applicati
 Exploring the Application: Once the application is running, you can explore its features, such as adding, editing, and deleting recipes, searching for recipes, and viewing recipe details.
 
 Running the application after adding some changes to the file you should be able to explore the application . You are able to add, find a recipe and viewing your recipe details.
+
+
 **How To Run The Recipe App**
 
 1. Download the C# code or copy it to your local system.
@@ -32,7 +34,21 @@ Running the application after adding some changes to the file you should be able
    - Save the file in a spot on your computer.
       
 5. **Run the Program:** - After building the software, browse to the directory containing the built executable file.
-   - Execute the built executable file. 
+   - Execute the built executable file.
+
+6. **Engage with the Recipe App:**
+   - Once the application is started, the terminal will display the Recipe App's main menu.
+   - To engage with the program, follow the on-screen directions.
+   - Enter the number matching to the action you wish to take.
+   - You can add a new recipe, see all recipes, see filtered recipes, or close the app.
+   - To input recipe specifics or filter criteria, follow the app's instructions.
+
+7. **Explore the Features:**
+ - Use the Recipe App to upload new recipes, examine information, and filter by ingredients, food categories, or maximum calories.
+
+8. To quit the Recipe App, click on the button on the main menu.
+   -You will receive a message saying "Thank you for using this recipe application"
+   
 
 
 
